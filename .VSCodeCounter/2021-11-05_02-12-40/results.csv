@@ -1,0 +1,13 @@
+"filename", "language", "Python", "CSV", "comment", "blank", "total"
+"c:\code\pytorch-tutorial\01.quickstart.py", "Python", 80, 0, 33, 32, 145
+"c:\code\pytorch-tutorial\02.tensors.py", "Python", 32, 0, 31, 30, 93
+"c:\code\pytorch-tutorial\03.dataset_and_dataloader.py", "Python", 39, 0, 6, 14, 59
+"c:\code\pytorch-tutorial\04.transforms.py", "Python", 15, 0, 6, 5, 26
+"c:\code\pytorch-tutorial\05.build_the_neural_network.py", "Python", 24, 0, 7, 10, 41
+"c:\code\pytorch-tutorial\06.automatic_differentiation.py", "Python", 18, 0, 48, 15, 81
+"c:\code\pytorch-tutorial\07.optimizing_model_paramters.py", "Python", 68, 0, 7, 19, 94
+"c:\code\pytorch-tutorial\08.save_and_load_the_model.py", "Python", 9, 0, 10, 10, 29
+"c:\code\pytorch-tutorial\09.02.learning_pytorch_with_examples.py", "Python", 220, 0, 237, 115, 572
+"c:\code\pytorch-tutorial\09.03.what_is_torch_nn_ready.py", "Python", 264, 0, 167, 139, 570
+"c:\code\pytorch-tutorial\data\pokemon\pokemon.csv", "CSV", 0, 810, 0, 1, 811
+"Total", "-", 769, 810, 552, 390, 2521
